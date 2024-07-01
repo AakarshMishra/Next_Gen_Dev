@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\drawable_cplus.png.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\drawable\\cplus.png"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\layout_activity_quiz_option.xml.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\layout\\activity_quiz_option.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\drawable_icon.xml.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\drawable\\icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\drawable_logout.jpeg.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\drawable\\logout.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\layout_activity_java_or_cplus_quiz.xml.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\layout\\activity_java_or_cplus_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\drawable_java.webp.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\drawable\\java.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\drawable_blackboard.xml.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\drawable\\blackboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\drawable_keys.xml.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\drawable\\keys.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\drawable_history.png.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\drawable\\history.png"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\drawable_book.xml.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\drawable\\book.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\drawable_rules.png.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\drawable\\rules.png"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\drawable_quiz.xml.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\drawable\\quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\drawable_edit.png.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\drawable\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\layout_activity_python_quiz.xml.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\layout\\activity_python_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\drawable_start.webp.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\drawable\\start.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\layout_activity_edit_password.xml.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\layout\\activity_edit_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\drawable_splash_image.xml.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\drawable\\splash_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\layout_activity_final_result.xml.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\layout\\activity_final_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\drawable_bg2.jpg.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\drawable\\bg2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\drawable_home_bg.xml.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\drawable\\home_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-pngs-29:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\drawable_unselected.xml.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\drawable\\unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\drawable_bg3.jpg.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\drawable\\bg3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\drawable_arrow.xml.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\drawable\\arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\layout_activity_rule.xml.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\layout\\activity_rule.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\drawable_selected.xml.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\drawable\\selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\drawable_correct.gif.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\drawable\\correct.gif"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\drawable-v24_question1.gif.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\drawable-v24\\question1.gif"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\drawable_incorrect.gif.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\drawable\\incorrect.gif"
+    },
+    {
+        "merged": "com.aakarsh.quizquest.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.aakarsh.quizquest.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\drawable_python.webp.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\drawable\\python.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\drawable_noted.gif.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\drawable\\noted.gif"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\layout_item_history.xml.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\layout\\item_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\layout_slide_rules.xml.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\layout\\slide_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\drawable_worldwide.xml.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\drawable\\worldwide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-merged_res-33:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Aakarsh\\.gradle\\daemon\\8.0\\com.aakarsh.quizquest.app-main-35:\\layout\\activity_login.xml"
+    }
+]
